@@ -1,0 +1,30 @@
+
+.item {
+    margin: 5px;
+    margin-top: 2em;
+}
+
+.small-size {
+    font-size: smaller;
+}
+
+.basket:hover {
+  opacity: 0.5;
+}
+
+.baskettext {
+    display: inline-block;
+    color:white;
+    font-size:0.7em;
+    width:10em;
+    text-align:left;
+}
+
+.basket-col {
+    margin:0px;
+    padding:0px;
+}
+
+.login input {
+    margin-bottom:10px;
+}
